@@ -1,0 +1,8 @@
+pip freeze > requirements.txt
+
+speechrecognition
+pyttsx3
+transformers
+torch
+
+pip install -r requirements.txt
